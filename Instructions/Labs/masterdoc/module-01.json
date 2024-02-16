@@ -1,0 +1,29 @@
+[
+    {
+        "Name": "Building AI Applications with Azure OpenAI and PostgreSQL",
+        "Language": "English",
+        "BaseURL": "https://github.com/solliancenet/microsoft-postgres-docs-project/tree/main",
+        "Files": [
+            {
+                "RawFilePath": "https://raw.githubusercontent.com/solliancenet/microsoft-postgres-docs-project/main/labs/01_getting_started.md",
+                "Order": 1
+            },
+            {
+                "RawFilePath": "https://raw.githubusercontent.com/solliancenet/microsoft-postgres-docs-project/main/labs/01_getting_started.md",
+                "Order": 2
+            },
+            {
+                "RawFilePath": "https://raw.githubusercontent.com/solliancenet/microsoft-postgres-docs-project/main/labs/02_whats_new_postgres16.md",
+                "Order": 3
+            },
+            {
+                "RawFilePath": "https://raw.githubusercontent.com/solliancenet/microsoft-postgres-docs-project/main/labs/03_postgres_extensions.md",
+                "Order": 4
+            },
+            {
+                "RawFilePath": "https://raw.githubusercontent.com/solliancenet/microsoft-postgres-docs-project/main/labs/04_postgres_ai.md",
+                "Order": 5
+            }
+        ]
+    }
+]
