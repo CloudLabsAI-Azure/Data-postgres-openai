@@ -1,4 +1,4 @@
-# Getting Started with Your AZ-104: Microsoft Azure Administrator Workshop
+# Getting Started with Your Building AI Applications with Azure OpenAI and PostgreSQL
  
 Welcome to Building AI Applications with Azure OpenAI and PostgreSQL: We've prepared a seamless environment for you to explore and learn OpenAI and PostgreSQL. Let's begin by making the most of this experience:
  
