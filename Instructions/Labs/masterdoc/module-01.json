@@ -5,7 +5,7 @@
         "BaseURL": "https://github.com/solliancenet/microsoft-postgres-docs-project/tree/main",
         "Files": [
             {
-                "RawFilePath": "https://raw.githubusercontent.com/solliancenet/microsoft-postgres-docs-project/main/labs/01_getting_started.md",
+                "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/Data-postgres-openai/main/Instructions/Labs/Lab-Intro.md",
                 "Order": 1
             },
             {
