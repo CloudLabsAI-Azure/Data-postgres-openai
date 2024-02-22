@@ -32,7 +32,7 @@ Feel free to start, stop, or restart your virtual machine as needed from the **R
 
 ## Let's Get Started with Azure Portal
  
-1. On your virtual machine, click on any resources of your choice, and open [Azure Portal](portal.azure.com):
+1. On your virtual machine, click on any resources of your choice, and open Azure Portal using https://portal.azure.com.
  
     ![Launch Azure Portal](media/googlechrome.png)
  
