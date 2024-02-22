@@ -20,7 +20,7 @@ To get a better understanding of your lab resources and credentials, navigate to
  
 ## Utilizing the Split Window Feature
  
-For convenience, you can open the lab guide in a separate window by selecting the **Split Window** button from the top right corner.
+For convenience, you can open the lab guide in a separate window by selecting the **Split Window** button from the bottom right corner.
  
 ![Use the Split Window Feature](media/split.png)
  
@@ -32,7 +32,7 @@ Feel free to start, stop, or restart your virtual machine as needed from the **R
 
 ## Let's Get Started with Azure Portal
  
-1. On your virtual machine, click on any resources of your choice, and open [Azure Portal]():
+1. On your virtual machine, click on any resources of your choice, and open [Azure Portal](portal.azure.com):
  
     ![Launch Azure Portal](media/googlechrome.png)
  
