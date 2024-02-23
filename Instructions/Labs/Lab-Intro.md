@@ -6,7 +6,7 @@ Welcome to Building AI Applications with Azure OpenAI and PostgreSQL: We've prep
  
 Once you're ready to dive in, your virtual machine and lab guide will be right at your fingertips within your web browser.
  
-![Access Your VM and Lab Guide](media/Lab-01.png)
+![Access Your VM and Lab Guide](media/getstarted.png)
 
 ### Virtual Machine & Lab Guide
  
@@ -22,7 +22,7 @@ To get a better understanding of your lab resources and credentials, navigate to
  
 For convenience, you can open the lab guide in a separate window by selecting the **Split Window** button from the bottom right corner.
  
-![Use the Split Window Feature](media/split.png)
+![Use the Split Window Feature](media/splitwindow.png)
  
 ## Managing Your Virtual Machine
  
